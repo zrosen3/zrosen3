@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zrosen3
+- 👋 Hi, I’m Zev Rosen @zrosen3.
 - 👀 I’m interested in data science and analytics.
 - 🌱 I’m currently learning R, Python, SQL, and stata. 
 - 💞️ I’m looking to collaborate on data science projects.
